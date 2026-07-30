@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo | Leides</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Quicksand:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <img src="img/perfilIG.png" alt="Logo Leides" class="header-logo">
+            
+            <div class="header-text">
+                <p class="slogan">Personalizados e mimos feitos à mão.</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="filters">
+            <button class="filter-btn active" data-filter="Todos">Todos</button>
+            <button class="filter-btn" data-filter="Kits">Kits</button>
+            <button class="filter-btn" data-filter="Festas">Festas</button>
+        </div>
+
+        <div class="catalog-container" id="catalog"></div>
+    </main>
+
+    <footer>
+        <p>&copy; Copyright Leides. Desenvolvido por Jennifer Domingos.</p>
+    </footer>
+
+    <div id="aviso-flutuante" class="aviso-flutuante">
+        <p><i class="fa-solid fa-camera"></i> <strong>Aviso:</strong> Em breve adicionaremos as fotos reais dos produtos! </p>
+        <button id="fechar-aviso" class="fechar-aviso"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+
+    <a href="https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20fazer%20um%20orçamento%20ou%20tirar%20dúvidas." class="whatsapp-flutuante" target="_blank" title="Fale conosco no WhatsApp">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+    
+    <script src="script.js"></script>
+</body>
+</html>
