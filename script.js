@@ -6,7 +6,7 @@ const produtos = [
         categoria: "Festas",
         descricao: "Papel Fotográfico. Só Impressão: R$ 12,00 cada folha (já recortado).",
         informacaoExtra: "Design + Impressão: R$ 20,00 (por folha).",
-        imagem: "img/perfilIG.png",
+        imagem: "img/topodebolo_Kpop.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Topo%20de%20Bolo%20Simples."
     },
     {
@@ -98,7 +98,7 @@ const produtos = [
         categoria: "Kits",
         descricao: "50 cartões de visita, 50 recibos e 2 cartelas de adesivos.",
         informacaoExtra: "Só impressão: R$ 70,00  | Design + Impressão: R$ 95,00.",
-        imagem: "img/perfilIG.png",
+        imagem: "img/kitEmpBasico.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Kit%20Básico."
     },
     {
@@ -118,7 +118,7 @@ const produtos = [
         categoria: "Geral",
         descricao: "Papel Fotográfico (9x4cm). Só Impressão: R$ 25,00 (50 unidades).",
         informacaoExtra: "Design + Impressão: R$ 45,00.",
-        imagem: "img/perfilIG.png",
+        imagem: "img/cartaoVisita.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Cartão%20de%20Visita."
     },
     {
@@ -127,7 +127,7 @@ const produtos = [
         categoria: "Geral",
         descricao: "Papel Cartão (9x4cm). Só Impressão: R$ 32,00 (50 unidades).",
         informacaoExtra: "Design + Impressão: R$ 50,00.",
-        imagem: "img/perfilIG.png",
+        imagem: "img/cartaoVisita.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Cartão%20de%20Visita."
     },
     {
