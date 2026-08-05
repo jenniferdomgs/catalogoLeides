@@ -116,7 +116,7 @@ const produtos = [
         id: 13,
         nome: "Cartão de Visita (Fotográfico)",
         categoria: "Geral",
-        descricao: "Papel Fotográfico (9x4cm). Só Impressão: R$ 25,00 (50 unidades).",
+        descricao: "Papel Fotográfico (9x5cm). Só Impressão: R$ 25,00 (50 unidades).",
         informacaoExtra: "Design + Impressão: R$ 45,00.",
         imagem: "img/cartaoVisita.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Cartão%20de%20Visita."
@@ -125,7 +125,7 @@ const produtos = [
         id: 14,
         nome: "Cartão de Visita (Cartão)",
         categoria: "Geral",
-        descricao: "Papel Cartão (9x4cm). Só Impressão: R$ 32,00 (50 unidades).",
+        descricao: "Papel Cartão (9x5cm). Só Impressão: R$ 32,00 (50 unidades).",
         informacaoExtra: "Design + Impressão: R$ 50,00.",
         imagem: "img/cartaoVisita.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Cartão%20de%20Visita."
