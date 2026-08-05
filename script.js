@@ -72,23 +72,41 @@ const produtos = [
         imagem: "img/perfilIG.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Cartela%20Polaroids."
     },
+    {
+        id: 23,
+        nome: "Convite Digital Simples",
+        categoria: "Festas",
+        descricao: "Arte digital (JPG/PNG) para envio via WhatsApp ou Redes Sociais.",
+        informacaoExtra: "Valor Único: R$ 20,00.",
+        imagem: "img/perfilIG.png",
+        linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Convite%20Digital%20Simples."
+    },
+    {
+        id: 24,
+        nome: "Convite Digital Interativo",
+        categoria: "Festas",
+        descricao: "Arquivo PDF com botões clicáveis (Localização, Lista de Presentes, Confirmação).",
+        informacaoExtra: "Valor Único: R$ 40,00.",
+        imagem: "img/perfilIG.png",
+        linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Convite%20Digital%20Interativo."
+    },
 
     // --- KITS ---
     {
         id: 9,
-        nome: "Kit Festa Simples",
+        nome: "Kit Só um bolinho",
         categoria: "Kits",
-        descricao: "1 Topo de Bolo Simples (2D), 3 Cartelas de Adesivos e 9 Polaroids.",
+        descricao: "1 Topo de Bolo Simples (2D), 3 Cartelas de Adesivos (4x4cm) e 20 Etiquetas/Tags para docinhos (4x4cm).",
         informacaoExtra: "Valor: R$ 90,00",
-        imagem: "img/perfilIG.png",
-        linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Kit%20Festa%20Simples."
+        imagem: "img/kit_SóUmBolinho.png",
+        linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Kit%20Só%20um%20bolinho."
     },
     {
         id: 10,
         nome: "Kit Festa Leides",
         categoria: "Kits",
-        descricao: "1 Topo de Bolo 3D, 32 Convites P, 5 Cartelas de Adesivos e 20 Etiquetas/Tags.",
-        informacaoExtra: "Valor: R$ 145,00",
+        descricao: "1 Topo de Bolo 3D, Convite Digital Interativo, 5 Cartelas de Adesivos (4x4cm) e 20 Etiquetas/Tags (5x5cm).",
+        informacaoExtra: "Valor: R$ 140,00",
         imagem: "img/perfilIG.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Kit%20Festa%20Leides."
     },
@@ -118,7 +136,7 @@ const produtos = [
         categoria: "Geral",
         descricao: "Papel Fotográfico (9x5cm). Só Impressão: R$ 25,00 (50 unidades).",
         informacaoExtra: "Design + Impressão: R$ 45,00.",
-        imagem: "img/cartaoVisita.png",
+        imagem: "img/perfilIG.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Cartão%20de%20Visita."
     },
     {
@@ -177,12 +195,12 @@ const produtos = [
     },
     {
         id: 20,
-        nome: "Cartela de Adesivos (A4)",
+        nome: "Adesivos Recortados (Por Unidade)",
         categoria: "Geral",
-        descricao: "Papel Adesivo. Só Impressão: R$ 8,00 por folha (10,00 já recortado).",
-        informacaoExtra: "Design + Impressão: R$ 16,00 (13,50 a partir de 5 cartelas).",
+        descricao: "Pedido Mínimo: 30 unidades. Tamanho à escolha (ex: 4x4cm ou 5x5cm).",
+        informacaoExtra: "Só Impressão e Corte: R$ 0,45/unidade | Design + Impressão: R$ 0,65/unidade.",
         imagem: "img/perfilIG.png",
-        linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Adesivos."
+        linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20Adesivos%20por%20unidade."
     },
     {
         id: 21,
