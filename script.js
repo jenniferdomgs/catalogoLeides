@@ -4,8 +4,8 @@ const produtos = [
         id: 1,
         nome: "Topo de Bolo Simples",
         categoria: "Festas",
-        descricao: "Papel Fotográfico. Só Impressão: R$ 12,00 cada folha (já recortado).",
-        informacaoExtra: "Design + Impressão: R$ 20,00 (por folha).",
+        descricao: "Papel Fotográfico. Só Impressão: R$ 8,00 cada folha (já recortado).",
+        informacaoExtra: "Design + Impressão: R$ 12,00 (por folha).",
         imagem: "img/topodebolo_Kpop.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Topo%20de%20Bolo%20Simples."
     },
@@ -14,7 +14,7 @@ const produtos = [
         nome: "Topo de Bolo 3D",
         categoria: "Festas",
         descricao: "Papel Fotográfico / Lamicote. Só Impressão: a partir de R$ 20,00.",
-        informacaoExtra: "Design + Impressão: a partir de R$ 35,00.",
+        informacaoExtra: "Design + Impressão: a partir de R$ 25,00.",
         imagem: "img/perfilIG.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Topo%20de%20Bolo%203D."
     },
@@ -197,9 +197,9 @@ const produtos = [
         id: 20,
         nome: "Adesivos Recortados (Por Unidade)",
         categoria: "Geral",
-        descricao: "Pedido Mínimo: 30 unidades. Tamanho à escolha (ex: 4x4cm ou 5x5cm).",
+        descricao: "Pedido Mínimo: 20 unidades. Tamanho à escolha (ex: 4x4cm ou 5x5cm).",
         informacaoExtra: "Só Impressão e Corte: R$ 0,45/unidade | Design + Impressão: R$ 0,65/unidade.",
-        imagem: "img/perfilIG.png",
+        imagem: "img/mockupAdesivos.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20os%20Adesivos%20por%20unidade."
     },
     {
@@ -213,11 +213,11 @@ const produtos = [
     },
     {
         id: 22,
-        nome: "Etiquetas Roupas (5x7,5cm)",
+        nome: "Etiquetas (5x7,5cm)",
         categoria: "Geral",
         descricao: "Papel Cartão. Só Impressão: R$ 6,50 por folha A4 (aprox. 12 un).",
         informacaoExtra: "Design + Impressão: R$ 12,00 por folha A4.",
-        imagem: "img/perfilIG.png",
+        imagem: "img/MockupTags.png",
         linkBotao: "https://wa.me/5584999208623?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20Etiquetas."
     }
 ];
